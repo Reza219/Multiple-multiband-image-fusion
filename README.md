@@ -1,1 +1,1 @@
-# Multiple-multiband-image-fusion
+Fusing multiple multiband images
